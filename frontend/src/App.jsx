@@ -28,7 +28,7 @@ import {
   EyeOff,
 } from 'lucide-react';
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://cloudnotes-api-yksu.onrender.com/api';
+const API_URL = import.meta.env.VITE_API_URL || 'http://13.201.99.145:5001/api';
 
 const COLOR_THEMES = {
   slate: {
